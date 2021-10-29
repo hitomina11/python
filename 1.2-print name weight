@@ -1,0 +1,14 @@
+age = input("enter your age")
+salary = input("enter your salary")
+name = input("enter your name")
+
+print(age)
+print(salary)
+print(name)
+
+#enter your age 21
+enter your salary 1450
+enter your name viji
+ 21
+ 1450
+ viji
