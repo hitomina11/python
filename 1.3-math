@@ -1,0 +1,8 @@
+Y= input(" X= ")
+X= input(" Y= ")
+
+print( 'X+Y= ' + X+Y )
+
+# X= 1
+ Y= 2
+X+Y= 21
