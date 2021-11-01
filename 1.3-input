@@ -6,4 +6,12 @@ print( 'my name is ' + name )
 print( 'my age is ' + age )
 print( 'my major is ' + major )
 
-# what is your name? 
+# what is your name? hitomi
+ what is your age?  23
+ what is your major? law
+my name is hitomi
+my age is  23
+my major is law
+
+Process finished with exit code 0
+
