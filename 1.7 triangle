@@ -1,0 +1,8 @@
+side = int(input("enter the side value"))
+Area = 1/2 * ( side * side )
+print("Area of the triangle ="+str(Area))
+
+#enter the side value 2
+Area of the triangle =2.0
+
+Process finished with exit code 0
