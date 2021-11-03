@@ -1,0 +1,14 @@
+x=int(input("enter your x figure"))
+y=int(input("enter your y figure"))
+
+temp=x
+x=y
+y=temp
+
+print(x)
+print(y)
+
+#enter your x figure3
+enter your y figure4
+4
+3
