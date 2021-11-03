@@ -1,0 +1,6 @@
+x=int(input("enter your x figure"))
+fahrebheit=32+x
+print(("Convert Celsius To Fahrenheit= ")+str(fahrebheit))
+
+#enter your x figure3
+Convert Celsius To Fahrenheit= 35
