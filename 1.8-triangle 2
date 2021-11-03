@@ -1,0 +1,7 @@
+side = int(input("enter the side value"))
+Area = 1/2 * side * side
+print(Area)
+
+#
+enter the side value2
+2.0
