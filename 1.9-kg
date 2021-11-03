@@ -1,0 +1,6 @@
+Weight_KG =int(input("enter your weight" ))
+weight_conversion_lbs = Weight_KG * 2.2046
+print("Hitomi weight in lbs : " + str(weight_conversion_lbs))
+
+#enter your weight 2
+Hitomi weight in lbs : 4.4092
