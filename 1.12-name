@@ -1,0 +1,7 @@
+x=input("enter your name")
+y=input("enter your name")
+print(x + y)
+
+#enter your nameviji
+enter your namehitomi
+vijihitomi
