@@ -1,0 +1,6 @@
+x=int(input("enter some figure"))
+y=1.6 * x
+print("Convert kilometer to miles" + str(y))
+
+#enter some figure3
+Convert kilometer to miles4.800000000000001
