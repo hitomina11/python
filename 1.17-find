@@ -1,0 +1,4 @@
+course="PYTHON FOR BEGINNERS"
+print(course.find('B'))
+
+#11
