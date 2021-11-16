@@ -1,0 +1,42 @@
+student1_result=input("student1 result")
+if student1_result >str(25):
+    print("pass")
+else:
+    print("falt")
+
+student2_result =input("student2 result")
+if student2_result > str(25):
+    print("pass")
+else:
+    print("falt")
+
+student3_result =input("student3 result")
+if student3_result > str(25):
+    print("pass")
+else:
+    print("falt")
+
+student4_result =input("student4 result")
+
+if student4_result > str(25):
+    print("pass")
+else:
+    print("falt")
+
+student5_result =input("student5 result")
+
+if student5_result > str(25):
+             print("pass")
+else:
+     print("falt")
+
+#student1 result27
+pass
+student2 result29
+pass
+student3 result21
+falt
+student4 result18
+falt
+student5 result28
+pass
