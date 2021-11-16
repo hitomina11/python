@@ -1,0 +1,5 @@
+sum = 10
+if (sum == 10):
+    print("its correct")
+else:
+    print("its wrong")
