@@ -1,0 +1,8 @@
+weight = input("write your weight")
+if weight < str(45):
+    print("thin")
+else:
+    print("fat")
+    
+    #write your weight 40
+thin
