@@ -1,0 +1,4 @@
+course="John","Peter","Vicky"
+print("#".join(course))
+
+#John#Peter#Vicky
