@@ -1,0 +1,8 @@
+z=int(input("give some number"))
+if z/2==0:
+    print("even")
+else:
+    print("odd")
+
+#give some number45
+odd
