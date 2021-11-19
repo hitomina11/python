@@ -1,0 +1,8 @@
+z=input("give some number")
+if int(z)* (-1) > 0:
+ print("this is negative number")
+else:
+ print("this is positine number")
+ 
+ #give some number-1
+this is negative number
