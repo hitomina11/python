@@ -1,0 +1,7 @@
+z=5
+if z%1==0 & z%5==0 :
+ print("5 is prime number")
+else:
+ print("5 is not prime number")
+
+#5 is prime number
