@@ -1,0 +1,6 @@
+z=int(input("give some number"))
+y=z*0.5
+print(y)
+
+#give some number4
+2.0
