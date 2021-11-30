@@ -1,0 +1,11 @@
+z=int(input("give some number"))
+if z*(-1)>0:
+    print("z is negative")
+elif z*(-1)<0:
+    print("z is positive")
+elif z*(-1)==0:
+    print("z is 0")
+
+
+#give some number0
+z is 0
