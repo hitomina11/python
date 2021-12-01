@@ -1,0 +1,6 @@
+for x in 'Apple', 'orange', 'watermelon':
+    print (x)
+    
+#apple
+orange
+watermelon
