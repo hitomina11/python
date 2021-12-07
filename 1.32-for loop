@@ -1,0 +1,13 @@
+numbers = numbers = [1, 2, 4, 6, 11, 20]
+for val in numbers:
+    sum =val*val
+    print("The square value is", sum)
+
+#The square value is 1
+The square value is 4
+The square value is 16
+The square value is 36
+The square value is 121
+The square value is 400
+
+Process finished with exit code 0
