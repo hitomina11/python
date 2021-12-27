@@ -1,0 +1,7 @@
+languages = ['R', 'Python',  'Scala', 'Java', 'Julia']
+for x in range(int('languages')):
+ print ("Current language"+"; ")
+
+
+point!
+Space= set 
