@@ -1,0 +1,20 @@
+number = int(input("give some number"))
+while number< 6:
+    if number = 5
+        print("The number is five?"+" yes")
+    else:
+        print("The number is five?"+" no")
+    number=number+1
+print ("stop")
+while
+    if number=11
+        print("The number is eleven?"+" yes")
+    else:
+        print("The number is eleven?"+" no")
+print ("stop")
+while
+    if number=9
+        print("The number is nine?"+" yes")
+    else:
+        print("The number is nine?"+" no")
+print ("stop")
