@@ -1,0 +1,8 @@
+print(‘x’)
+languages = ['R', 'Python',  'Scala', 'Java', 'Julia']
+
+#Current language: R
+Current language: Python
+Current language: Scala
+Current language: Java
+Current language: Julia
