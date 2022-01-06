@@ -1,0 +1,10 @@
+x=input("enjoying the course? y or n")
+if x=="y":
+  print("yes i am enjoying the course")
+elif x=='n':
+    print("no i am not enjoying")
+else:
+  print("i dont understand the input")
+
+#enjoying the course? y or ne
+i dont understand the input
