@@ -1,0 +1,7 @@
+x=input("enjoying the course? yes or not")
+if x=="yes":
+  print("yes i am enjoying the course")
+else:
+    print("no i am not enjoying")
+#enjoying the course? yes or notyes
+yes i am enjoying the course
